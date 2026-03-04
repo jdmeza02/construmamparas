@@ -5,6 +5,7 @@
   </head>
 
   <body>
+    <?php include './include/seo/analytics.php'; ?>
     <!-- Header Inicio-->
     <?php include './include/important/header.php'; ?>
     <!-- Header Fin-->
@@ -46,6 +47,8 @@
 
     <!-- Back to Top -->
     <a href="#" class="btn btn-primary px-3 back-to-top"><i class="fa fa-angle-double-up"></i></a>
+
+    <?php include './include/modal/whatsapp.php'; ?>
 
     <!-- piejs Inicio -->
     <?php include './include/seo/pie.php'; ?>

@@ -6,6 +6,7 @@
 </head>
 
 <body>
+    <?php include './include/seo/analytics.php'; ?>
     <!-- Header Inicio-->
     <div class="activeQs">
         <?php include './include/important/header.php'; ?>
@@ -189,6 +190,7 @@
 
     <!-- Back to Top -->
     <a href="#" class="btn btn-primary px-3 back-to-top"><i class="fa fa-angle-double-up"></i></a>
+    <?php include './include/modal/whatsapp.php'; ?>
 
 
     <!-- piejs Inicio -->

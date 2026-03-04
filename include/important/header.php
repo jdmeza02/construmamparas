@@ -7,7 +7,7 @@
 <div class="container-fluid">
       <div class="row">
             <div class="col-lg-3 bg-white d-none d-lg-block">
-                  <a href="" class="navbar-brand w-100 h-100 m-0 p-0 d-flex align-items-center justify-content-center">
+                  <a href="index.php" class="navbar-brand w-100 h-100 m-0 p-0 d-flex align-items-center justify-content-center">
                         <h1 class="m-0 display-3"><img src="./img/logo-construmamparas.png" alt="Construmamparas" /></h1>
                   </a>
             </div>
@@ -45,7 +45,7 @@
             </div>
             <nav class="navbar navbar-expand-lg bg-white navbar-light p-0">
                   <a href="" class="navbar-brand d-block d-lg-none">
-                        <h1 class="m-1 pt-2 pb-2 text-primary logoNav">Costrumamparas</h1>
+                        <h1 class="m-1 pt-2 pb-2 text-primary logoNav"><img style="width: 50px" src="./img/logo-construmamparas.png" alt="Construmamparas" /></h1>
                   </a>
                   <button type="button" class="navbar-toggler" data-toggle="collapse" data-target="#navbarCollapse">
                         <span class="navbar-toggler-icon"></span>

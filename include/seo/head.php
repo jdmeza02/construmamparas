@@ -1,5 +1,12 @@
       <meta charset="utf-8" />
       <title>Mamparas Sanitarias y Cancelería de Aluminio en CDMX | Construmamparas MG</title>
+      <!-- Google Tag Manager -->
+      <script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+      new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+      j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+      'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+      })(window,document,'script','dataLayer','GTM-5VGCW4DX');</script>
+      <!-- End Google Tag Manager -->
 
       <meta name="description" content="Construmamparas MG S.A. de C.V. fabrica e instala mamparas sanitarias, cancelería de aluminio, vidrio templado y herrería en Ciudad de México y Estado de México para proyectos institucionales y comerciales.">
 
@@ -47,3 +54,11 @@
 
       <!-- Customized Bootstrap Stylesheet -->
       <link href="css/style.css" rel="stylesheet" />
+
+      <link rel="icon" type="image/png" href="img/favicon-96x96.png" sizes="96x96" />
+      <link rel="icon" type="image/svg+xml" href="img/favicon.svg" />
+      <link rel="shortcut icon" href="img/favicon.ico" />
+      <link rel="apple-touch-icon" sizes="180x180" href="img/apple-touch-icon.png" />
+      <link rel="manifest" href="img/site.webmanifest" />
+
+      <meta name="google-site-verification" content="QQlIpW9l50YFmoa4fBGgVtLbbjY32TR3f9whiUhnk38" />

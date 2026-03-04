@@ -1,0 +1,8 @@
+User-agent: *
+Allow: /
+
+Disallow: /mail/
+Disallow: /PHPMailer/
+Disallow: /vendor/
+
+Sitemap: https://www.construmamparas.com.mx/sitemap.xml

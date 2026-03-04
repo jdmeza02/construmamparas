@@ -7,7 +7,7 @@
             <div class="owl-carousel testimonial-carousel position-relative">
               <div class="d-flex flex-column text-primary">
                 <div class="d-flex align-items-center mb-3">
-                  <img class="img-fluid" src="img/testimonial-1.jpg" alt="" />
+                  <img class="img-fluid" src="img/demo-user.jpg" alt="" />
                   <div class="ml-3">
                     <h5 class="text-primary">Nombre del cliente</h5>
                     <i>Empresa | Profesión</i>
@@ -20,7 +20,7 @@
               </div>
               <div class="d-flex flex-column text-primary">
                 <div class="d-flex align-items-center mb-3">
-                  <img class="img-fluid" src="img/testimonial-2.jpg" alt="" />
+                  <img class="img-fluid" src="img/demo-user.jpg" alt="" />
                   <div class="ml-3">
                     <h5 class="text-primary">Nombre del cliente</h5>
                     <i>Empresa | Profesión</i>
@@ -33,7 +33,7 @@
               </div>
               <div class="d-flex flex-column text-primary">
                 <div class="d-flex align-items-center mb-3">
-                  <img class="img-fluid" src="img/testimonial-3.jpg" alt="" />
+                  <img class="img-fluid" src="img/demo-user.jpg" alt="" />
                   <div class="ml-3">
                     <h5 class="text-primary">Nombre del cliente</h5>
                     <i>Empresa | Profesión</i>

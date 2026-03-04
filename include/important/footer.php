@@ -45,12 +45,12 @@
         </div>
         <div class="col-lg-6 text-center text-md-right">
           <ul class="nav d-inline-flex">
-            <li class="nav-item">
+            <!-- <li class="nav-item">
               <a class="nav-link text-white py-0" href="#">Términos y Condiciones</a>
             </li>
             <li class="nav-item">
               <a class="nav-link text-white py-0" href="#">Aviso de Privacidad</a>
-            </li>
+            </li> -->
             <li class="nav-item">
               <a class="nav-link text-white py-0" href="contacto.php">Contacto</a>
             </li>

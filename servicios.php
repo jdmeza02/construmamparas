@@ -6,6 +6,7 @@
   </head>
 
 <body>
+    <?php include './include/seo/analytics.php'; ?>
     <!-- Header Inicio-->
     <?php include './include/important/header.php'; ?>
     <!-- Header Fin-->
@@ -73,7 +74,7 @@
                         <div class="card d-flex flex-column align-items-center text-center bg-white rounded overflow-hidden p-3 hT-100">
                             <span class="badgetP">Producto</span>
                             <div class="icon-box bg-info text-white shadow mt-2 mb-4">
-                            <i class="fa fa-2x fa-ruler-combined"></i>
+                            <i class="fa fa-2x fa-toilet"></i>
                             </div>
                             <h6 class="font-weight-regular mb-4 px-4 hT-60px">Mamparas Sanitarias</h6>
                             <a href="#pmampara" class="btn btn-secondary mt-3 py-2 px-4 text-white">Ver detalles</a>
@@ -89,7 +90,7 @@
                         <div class="card d-flex flex-column align-items-center text-center bg-white rounded overflow-hidden p-3 hT-100">
                             <span class="badgetP">Producto</span>
                             <div class="icon-box bg-info text-white shadow mt-2 mb-4">
-                            <i class="fa fa-2x fa-ruler-combined"></i>
+                            <i class="fa fa-2x fa-expand"></i>
                             </div>
                             <h6 class="font-weight-regular mb-4 px-4 hT-60px">Vidrio Templado</h6>
                             <a href="#pvidrio" class="btn btn-secondary mt-3 py-2 px-4 text-white">Ver detalles</a>
@@ -97,7 +98,7 @@
                         <div class="card d-flex flex-column align-items-center text-center bg-white rounded overflow-hidden p-3 hT-100">
                             <span class="badgetP">Producto</span>
                             <div class="icon-box bg-info text-white shadow mt-2 mb-4">
-                            <i class="fa fa-2x fa-ruler-combined"></i>
+                            <i class="fa fa-2x fa-door-open"></i>
                             </div>
                             <h6 class="font-weight-regular mb-4 px-4 hT-60px">Productos de Herrería</h6>
                             <a href="#pherreria" class="btn btn-secondary mt-3 py-2 px-4 text-white">Ver detalles</a>
@@ -134,6 +135,7 @@
 
     <!-- Back to Top -->
     <a href="#" class="btn btn-primary px-3 back-to-top"><i class="fa fa-angle-double-up"></i></a>
+    <?php include './include/modal/whatsapp.php'; ?>
 
 
     <!-- piejs Inicio -->
