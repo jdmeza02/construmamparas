@@ -27,8 +27,8 @@
       <meta property="og:type" content="website">
       <meta property="og:title" content="Mamparas Sanitarias y Cancelería de Aluminio | Construmamparas MG">
       <meta property="og:description" content="Fabricación e instalación de mamparas sanitarias, cancelería de aluminio y herrería en CDMX y Estado de México. Calidad y cumplimiento garantizado.">
-      <meta property="og:image" content="https://tusitio.com/img/logo-compartir.jpg">
-      <meta property="og:url" content="https://tusitio.com/">
+      <meta property="og:image" content="https://www.construmamparas.com.mx/img/og.png">
+      <meta property="og:url" content="https://www.construmamparas.com.mx">
       <meta property="og:locale" content="es_MX">
       <meta property="og:site_name" content="Construmamparas MG">
 
@@ -36,7 +36,7 @@
       <meta name="twitter:card" content="summary_large_image">
       <meta name="twitter:title" content="Mamparas Sanitarias y Cancelería de Aluminio | Construmamparas MG">
       <meta name="twitter:description" content="Especialistas en mamparas sanitarias, cancelería de aluminio y herrería en CDMX y Estado de México.">
-      <meta name="twitter:image" content="https://tusitio.com/img/logo-compartir.jpg">
+      <meta name="twitter:image" content="https://www.construmamparas.com.mx/img/og.png">
 
       <!-- Favicon -->
       <link href="img/favicon.ico" rel="icon" />

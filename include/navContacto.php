@@ -21,7 +21,7 @@
             </a>
         </div>
         <div class="col-lg-4 p-0">
-            <a href="tel:+52155759617478"  class="navtel">
+            <a href="tel:+5215575961747"  class="navtel">
                   <div class="contact-info-item d-flex-columna d-flex align-items-center justify-content-center bg-primary text-white py-4 py-lg-0">
                         <i class="fa fa-3x fa-phone-alt text-secondary mr-4"></i>
                         <div class="">

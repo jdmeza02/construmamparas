@@ -9868,3 +9868,29 @@ a{
   color: #707070;
   font-size: 13px;
 }
+
+.modal:target {
+    opacity: 1;
+    visibility: visible;
+}
+
+.close {
+    position: absolute;
+    right: -10px;
+    top: -20px;
+    font-size: 35px;
+    text-decoration: none;
+    color: black;
+}
+
+.svgtiktok{
+  font-size: 18px;
+  fill: #185581;
+  width: 16px;
+}
+
+.svgtiktokf{
+  font-size: 18px;
+  fill: #212529;
+  width: 16px;
+}

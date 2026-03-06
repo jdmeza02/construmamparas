@@ -93,7 +93,7 @@
                 <?php endfor; ?>
                 <?php
                     $base = "./img/portafolio/aluminio/aluminio-";
-                    for ($i = 1; $i <= 8; $i++):
+                    for ($i = 1; $i <= 14; $i++):
                     ?>
                     <div class="col-lg-4 col-md-6 col-sm-12 p-0 portfolio-item aluminio">
                         <div class="position-relative overflow-hidden">
@@ -128,7 +128,7 @@
 
 
     <!-- Back to Top -->
-    <a href="#" class="btn btn-primary px-3 back-to-top"><i class="fa fa-angle-double-up"></i></a>
+    <a href="#" class="btn btn-primary px-3 back-to-top text-white"><i class="fa fa-angle-double-up"></i></a>
     <?php include './include/modal/whatsapp.php'; ?>
 
 

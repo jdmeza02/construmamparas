@@ -18,7 +18,7 @@
                   <i class="fa fa-2x fa-hammer"></i>
                 </div>
                 <h6 class="font-weight-regular mb-4 px-4 hT-60px">Fabricación e Instalación de Mamparas Sanitarias</h6>
-                <img class="rounded" src="img/mamparas-sanitarias.jpg" alt="Mamapras" />
+                <img class="rounded" src="img/mamparas-n.jpg" alt="Mamapras" />
               </div>
               <div class="d-flex flex-column align-items-center text-center bg-white rounded overflow-hidden p-3 hT-100">
                 <div class="icon-box bg-info text-white shadow mt-2 mb-4">

@@ -14,7 +14,7 @@
                 <img class="img-fluid w-100" src="img/portafolio/canceleria-p.jpg" alt="Cancelería" />
               </div>
               <div class="portfolio-text bg-primary">
-                <h4 class="font-weight-bold mb-4">Cancelería</h4>
+                <h4 class="font-weight-bold text-white mb-4">Cancelería</h4>
                 <div class="d-flex align-items-center justify-content-center">
                   <!-- <a class="btn btn-sm btn-secondary m-1" href="#">
                     <i class="fa fa-link"></i>
@@ -29,15 +29,15 @@
           <div class="col-lg-4 col-md-6 col-sm-12 p-0 portfolio-item">
             <div class="position-relative overflow-hidden">
               <div class="portfolio-img">
-                <img class="img-fluid w-100" src="img/portafolio/canceleria-p2.jpg" alt="Cancelería" />
+                <img class="img-fluid w-100" src="img/proyectos-realizados.jpg" alt="Cancelería" />
               </div>
               <div class="portfolio-text bg-primary">
-                <h4 class="font-weight-bold mb-4">Cancelaría</h4>
+                <h4 class="font-weight-bold text-white mb-4">Cancelaría</h4>
                 <div class="d-flex align-items-center justify-content-center">
                   <!-- <a class="btn btn-sm btn-secondary m-1" href="#">
                     <i class="fa fa-link"></i>
                   </a> -->
-                  <a class="btn btn-sm btn-secondary m-1" href="img/portafolio/canceleria-p2.jpg" data-lightbox="portfolio">
+                  <a class="btn btn-sm btn-secondary m-1" href="img/proyectos-realizados.jpg" data-lightbox="portfolio">
                     <i class="fa fa-eye"></i>
                   </a>
                 </div>
@@ -50,7 +50,7 @@
                 <img class="img-fluid w-100" src="img/portafolio/herreria-p.jpg" alt="Herrería" />
               </div>
               <div class="portfolio-text bg-primary">
-                <h4 class="font-weight-bold mb-4">Herrería</h4>
+                <h4 class="font-weight-bold text-white mb-4">Herrería</h4>
                 <div class="d-flex align-items-center justify-content-center">
                   <!-- <a class="btn btn-sm btn-secondary m-1" href="#">
                     <i class="fa fa-link"></i>
@@ -68,7 +68,7 @@
                 <img class="img-fluid w-100" src="img/portafolio/herreria-p2.jpg" alt="Herrería" />
               </div>
               <div class="portfolio-text bg-primary">
-                <h4 class="font-weight-bold mb-4">Herrería</h4>
+                <h4 class="font-weight-bold text-white mb-4">Herrería</h4>
                 <div class="d-flex align-items-center justify-content-center">
                   <!-- <a class="btn btn-sm btn-secondary m-1" href="#">
                     <i class="fa fa-link"></i>
@@ -86,7 +86,7 @@
                 <img class="img-fluid w-100" src="img/portafolio/mamparas-p.jpg" alt="Mamapras" />
               </div>
               <div class="portfolio-text bg-primary">
-                <h4 class="font-weight-bold mb-4">Mamparas</h4>
+                <h4 class="font-weight-bold text-white mb-4">Mamparas</h4>
                 <div class="d-flex align-items-center justify-content-center">
                   <!-- <a class="btn btn-sm btn-secondary m-1" href="#">
                     <i class="fa fa-link"></i>
@@ -104,7 +104,7 @@
                 <img class="img-fluid w-100" src="img/portafolio/maparas-p.jpg" alt="Mamapras" />
               </div>
               <div class="portfolio-text bg-primary">
-                <h4 class="font-weight-bold mb-4">Mamparas</h4>
+                <h4 class="font-weight-bold text-white mb-4">Mamparas</h4>
                 <div class="d-flex align-items-center justify-content-center">
                   <!-- <a class="btn btn-sm btn-secondary m-1" href="#">
                     <i class="fa fa-link"></i>

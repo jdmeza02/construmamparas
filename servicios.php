@@ -134,7 +134,7 @@
 
 
     <!-- Back to Top -->
-    <a href="#" class="btn btn-primary px-3 back-to-top"><i class="fa fa-angle-double-up"></i></a>
+    <a href="#" class="btn btn-primary px-3 back-to-top text-white"><i class="fa fa-angle-double-up"></i></a>
     <?php include './include/modal/whatsapp.php'; ?>
 
 
