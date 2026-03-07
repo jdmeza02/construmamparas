@@ -13,7 +13,7 @@
       <meta name="keywords" content="mamparas sanitarias, fabricación de mamparas, instalación de mamparas sanitarias, cancelería de aluminio, vidrio templado, herrería especializada, puertas y ventanas de aluminio, estructuras metálicas, CDMX, Estado de México">
 
       <meta name="author" content="Construmamparas MG S.A. de C.V.">
-
+      <link rel="canonical" href="https://www.construmamparas.com.mx/">
       <meta name="robots" content="index, follow">
 
       <meta property="og:title" content="Mamparas Sanitarias y Cancelería de Aluminio | Construmamparas MG">

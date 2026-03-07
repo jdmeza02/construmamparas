@@ -16,6 +16,7 @@
                         <div class="">
                               <h5 class="mb-2">Email</h5>
                               <p class="m-0 text-primary">ventas@construmamparas.com.mx</p>
+                              <p class="m-0 text-primary">ventasconstrumamparas@hotmail.com</p>
                         </div>
                   </div>
             </a>
