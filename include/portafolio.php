@@ -32,7 +32,7 @@
                 <img class="img-fluid w-100" src="img/proyectos-realizados.jpg" alt="Cancelería" />
               </div>
               <div class="portfolio-text bg-primary">
-                <h4 class="font-weight-bold text-white mb-4">Cancelaría</h4>
+                <h4 class="font-weight-bold text-white mb-4">Herrería</h4>
                 <div class="d-flex align-items-center justify-content-center">
                   <!-- <a class="btn btn-sm btn-secondary m-1" href="#">
                     <i class="fa fa-link"></i>

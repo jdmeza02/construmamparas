@@ -73,7 +73,7 @@
 
                 <?php
                     $base = "./img/portafolio/mamparas/mamparas-";
-                    for ($i = 1; $i <= 18; $i++):
+                    for ($i = 1; $i <= 11; $i++):
                     ?>
                     <div class="col-lg-4 col-md-6 col-sm-12 p-0 portfolio-item mamparas">
                         <div class="position-relative overflow-hidden">
@@ -93,7 +93,7 @@
                 <?php endfor; ?>
                 <?php
                     $base = "./img/portafolio/aluminio/aluminio-";
-                    for ($i = 1; $i <= 14; $i++):
+                    for ($i = 1; $i <= 9; $i++):
                     ?>
                     <div class="col-lg-4 col-md-6 col-sm-12 p-0 portfolio-item aluminio">
                         <div class="position-relative overflow-hidden">
