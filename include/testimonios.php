@@ -7,41 +7,73 @@
             <div class="owl-carousel testimonial-carousel position-relative">
               <div class="d-flex flex-column text-primary">
                 <div class="d-flex align-items-center mb-3">
-                  <img class="img-fluid" src="img/demo-user.jpg" alt="" />
+                  <img class="img-fluid" src="img/demo-user-m.svg" alt="" />
                   <div class="ml-3">
-                    <h5 class="text-primary">Nombre del cliente</h5>
-                    <i>Empresa | Profesión</i>
+                    <h5 class="text-primary">VERONICA MENDOZA</h5>
+                    <i>Arquitecta</i>
                   </div>
                 </div>
                 <p>
-                  Tempor at diam tempor sed. Sanctus dolor ipsum ut nonumy amet clita sea. Sed eos sed dolores vero no. Ipsum elitr elitr stet dolor lorem erat.
-                  Diam no amet sea justo vero ut. Dolor ipsum kasd ipsum dolore.
+                  Excelente servicio por parte de Construmamparas. Cumplen en tiempo y forma, y la calidad de sus mamparas es muy buena. Totalmente recomendados.
                 </p>
               </div>
               <div class="d-flex flex-column text-primary">
                 <div class="d-flex align-items-center mb-3">
-                  <img class="img-fluid" src="img/demo-user.jpg" alt="" />
+                  <img class="img-fluid" src="img/demo-user-h.svg" alt="" />
                   <div class="ml-3">
-                    <h5 class="text-primary">Nombre del cliente</h5>
-                    <i>Empresa | Profesión</i>
+                    <h5 class="text-primary">JOAQUÍN SÁNCHEZ</h5>
+                    <i>Arquitecto</i>
                   </div>
                 </div>
-                <p>
-                  Tempor at diam tempor sed. Sanctus dolor ipsum ut nonumy amet clita sea. Sed eos sed dolores vero no. Ipsum elitr elitr stet dolor lorem erat.
-                  Diam no amet sea justo vero ut. Dolor ipsum kasd ipsum dolore.
+                <p>Quedé muy contento con el trabajo, todo muy limpio y bien hecho. Se nota la experiencia que tienen. Sin duda volvería a contratarlos.
                 </p>
               </div>
               <div class="d-flex flex-column text-primary">
                 <div class="d-flex align-items-center mb-3">
-                  <img class="img-fluid" src="img/demo-user.jpg" alt="" />
+                  <img class="img-fluid" src="img/demo-user-h.svg" alt="" />
                   <div class="ml-3">
-                    <h5 class="text-primary">Nombre del cliente</h5>
-                    <i>Empresa | Profesión</i>
+                    <h5 class="text-primary">RUBEN GONZÁLEZ</h5>
+                    <i>Ingeniero</i>
                   </div>
                 </div>
                 <p>
-                  Tempor at diam tempor sed. Sanctus dolor ipsum ut nonumy amet clita sea. Sed eos sed dolores vero no. Ipsum elitr elitr stet dolor lorem erat.
-                  Diam no amet sea justo vero ut. Dolor ipsum kasd ipsum dolore.
+                  Materiales de primera calidad y acabados impecables. Se nota que trabajan con detalle y compromiso.
+                </p>
+              </div>
+              <div class="d-flex flex-column text-primary">
+                <div class="d-flex align-items-center mb-3">
+                  <img class="img-fluid" src="img/demo-user-h.svg" alt="" />
+                  <div class="ml-3">
+                    <h5 class="text-primary">GUSTAVO</h5>
+                    <i>Arquitecto</i>
+                  </div>
+                </div>
+                <p>
+                  Empresa confiable, atención rápida y siempre atentos a lo que uno necesita. Muy buena experiencia.
+                </p>
+              </div>
+              <div class="d-flex flex-column text-primary">
+                <div class="d-flex align-items-center mb-3">
+                  <img class="img-fluid" src="img/demo-user-h.svg" alt="" />
+                  <div class="ml-3">
+                    <h5 class="text-primary">VICTOR GALINDO</h5>
+                    <i>Arquitecto</i>
+                  </div>
+                </div>
+                <p>
+                  Materiales de primera calidad y acabados impecables. Se nota que trabajan con detalle y compromiso.
+                </p>
+              </div>
+              <div class="d-flex flex-column text-primary">
+                <div class="d-flex align-items-center mb-3">
+                  <img class="img-fluid" src="img/demo-user-h.svg" alt="" />
+                  <div class="ml-3">
+                    <h5 class="text-primary">DANIEL GONZALEZ</h5>
+                    <i>Arquitecto</i>
+                  </div>
+                </div>
+                <p>
+                  Muy buen servicio, puntuales y responsables. 10/10.
                 </p>
               </div>
             </div>

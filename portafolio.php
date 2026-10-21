@@ -52,12 +52,12 @@
             <div class="row m-0 portfolio-container">
                 <?php
                     $base = "./img/portafolio/herreria/herreria-";
-                    for ($i = 1; $i <= 6; $i++):
+                    for ($i = 1; $i <= 19; $i++):
                     ?>
                     <div class="col-lg-4 col-md-6 col-sm-12 p-0 portfolio-item herreria">
                         <div class="position-relative overflow-hidden">
                             <div class="portfolio-img imgPorta">
-                                <img class="img-fluid rounded w-100" src="<?= $base . $i ?>.jpeg" alt="Herreria">
+                                <img class="img-fluid rounded w-100" src="<?= $base . $i ?>.jpg" alt="Herreria">
                             </div>
                             <div class="portfolio-text bg-primary">
                                 <h4 class="font-weight-bold mb-4 text-white">Herreria</h4>
@@ -73,7 +73,7 @@
 
                 <?php
                     $base = "./img/portafolio/mamparas/mamparas-";
-                    for ($i = 1; $i <= 11; $i++):
+                    for ($i = 1; $i <= 19; $i++):
                     ?>
                     <div class="col-lg-4 col-md-6 col-sm-12 p-0 portfolio-item mamparas">
                         <div class="position-relative overflow-hidden">
@@ -93,7 +93,7 @@
                 <?php endfor; ?>
                 <?php
                     $base = "./img/portafolio/aluminio/aluminio-";
-                    for ($i = 1; $i <= 9; $i++):
+                    for ($i = 1; $i <= 18; $i++):
                     ?>
                     <div class="col-lg-4 col-md-6 col-sm-12 p-0 portfolio-item aluminio">
                         <div class="position-relative overflow-hidden">
